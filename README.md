@@ -16,13 +16,13 @@
 
 1. 參數說明
 
-   ![](images\1-1.jpg)
+   ![](images/1-1.jpg)
 
    
 
 2. 建立一個文字檔內容為SELECT或是WITH的SQL
 
-![](images\1-2.jpg)
+![](images/1-2.jpg)
 
 
 
@@ -36,7 +36,7 @@
 
 4. 產生結果
 
-   ![](images\1-3.jpg)
+   ![](images/1-3.jpg)
 
 
 
@@ -111,7 +111,7 @@
 
 4. 產生結果
 
-   ![](images\2-1.jpg)
+   ![](images/2-1.jpg)
 
    
 
@@ -121,17 +121,17 @@
 
 5. 指定保留空白列、欄
 
-![](images\2-2.jpg)
+![](images/2-2.jpg)
 
 
 
 6. 設定是否顯示欄位抬頭
 
-![](images\2-3.jpg)
+![](images/2-3.jpg)
 
 7. 指定欄位值
 
-   ![](images\2-4.jpg)
+   ![](images/2-4.jpg)
 
    
 
@@ -141,7 +141,7 @@
 
 9. COMMAND LINE訊息說明
 
-![](images\2-5.jpg)
+![](images/2-5.jpg)
 
 
 
