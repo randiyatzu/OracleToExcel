@@ -6,8 +6,7 @@
 
 ## **環境設定**
 
-1. 建立目錄 OracleToExcel
-2. 將 OracleToExcel.exe、TNSNAMES.ORA、Oracle.ManagedDataAccess.dll、EPPlus.dll 放至此目錄
+1. 下載Release.zip並解壓縮
 3. 設定 TNSNAMES.ORA
 
 
